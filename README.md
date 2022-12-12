@@ -1,3 +1,9 @@
+## Introduce
+default IP: 192.168.88.1
+theme: argon
+user: root
+password: password
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
